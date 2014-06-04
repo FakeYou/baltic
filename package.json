@@ -1,0 +1,22 @@
+{
+  "name": "baltic",
+  "version": "0.0.0",
+  "description": "baltic ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/fakeyou/baltic"
+  },
+  "keywords": [
+    "baltic"
+  ],
+  "author": "Andre Nanninga <ag.nanninga@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fakeyou/baltic/issues"
+  },
+  "homepage": "https://github.com/fakeyou/baltic"
+}
