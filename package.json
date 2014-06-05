@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/fakeyou/baltic/issues"
   },
-  "homepage": "https://github.com/fakeyou/baltic"
+  "homepage": "https://github.com/fakeyou/baltic",
+  "devDependencies": {
+    "gulp-shell": "^0.2.5",
+    "gulp-clean": "^0.3.0",
+    "gulp": "^3.7.0"
+  }
 }
